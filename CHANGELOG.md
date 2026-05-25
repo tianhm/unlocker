@@ -2,7 +2,9 @@
 
 All dates are UK DD/MM/YY format.
 
-## 14/05/26
+# dd/mm/yy 4.2.9
+
+## 14/05/26 4.2.8
 * Fix change in registry settings in 25H2+ (Thanks to sonyps5201314 for PR)
 
 ## 01/11/23 4.2.7
