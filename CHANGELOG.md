@@ -15,7 +15,7 @@ VMware Tools across macOS, Linux and Windows guests. The unlocker has been updat
 issue. Alternatively download the tools directly from VMware https://vmware.com/go/tools.
 
 _drdonk_
-* Update VMware tools as CVE vuklnerability in earlier versions
+* Update VMware tools as CVE vulnerability in earlier versions
 
 ## 03/03/23 4.2.6
 
