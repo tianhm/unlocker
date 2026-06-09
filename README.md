@@ -1,22 +1,9 @@
 # macOS Unlocker V4 for VMware Workstation
 
-> [!NOTE]  
-> Doing some tidy up of the repo to make it more relevant in 2026.
+## Unlocker 2007-2026
+This project is now complete and archived.
 
-## IMPORTANT: Security Update
-Please redownload the unlocker as VMware have 
-[announced](https://www.vmware.com/security/advisories/VMSA-2023-0024.html) and fixed a vulnerability in 
-VMware Tools across macOS, Linux and Windows guests. The unlocker has been updated with the latest ISOs which fix the 
-issue. Alternatively download the tools directly from VMware https://vmware.com/go/tools.
-
-## Unlocker 2007-2023
-This project is now archived.
-
-The unlocker should continue to run as there have been few changes to the VMware code in many years.
-I have stopped developemnt as I no longer use VMware but would be happy to refer to a fork if someone
-sends me an email with the relevant details.
-
-There is also [Auto Unlocker](https://github.com/paolo-projects/auto-unlocker) which is still active.
+The unlocker is complete and should continue to run as there have been few changes to the VMware code in many years
 
 ***
 
